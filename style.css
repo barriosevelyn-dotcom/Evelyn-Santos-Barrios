@@ -1,0 +1,11 @@
+:root{
+    /* CSS HEX */
+--Verde-Musgo: #687351ff;
+--Verde-Claro: #9ba17fff;
+--Amarelo-Claro: #e8e4dbff;
+--Bege: #c9c1aeff;
+
+}
+body{
+    background-color: var(--Bege);
+}
